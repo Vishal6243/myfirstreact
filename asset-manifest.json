@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myfirstreact/static/css/main.b66f765f.css",
+    "main.js": "/myfirstreact/static/js/main.d0037cf7.js",
+    "static/js/787.ef421f02.chunk.js": "/myfirstreact/static/js/787.ef421f02.chunk.js",
+    "static/media/about-header.png": "/myfirstreact/static/media/about-header.a2295e2acf4d39822d4b.png",
+    "static/media/digital.jpg": "/myfirstreact/static/media/digital.1d9ffe1deff204eb457d.jpg",
+    "static/media/android.jpg": "/myfirstreact/static/media/android.95fc64c13805b3be0ddd.jpg",
+    "static/media/software.jpg": "/myfirstreact/static/media/software.9528a6a91e90a627b2cb.jpg",
+    "static/media/marketing.jpg": "/myfirstreact/static/media/marketing.0e504ebbd9825cbc3a76.jpg",
+    "static/media/s1.jpg": "/myfirstreact/static/media/s1.83b5c75df4f7eb47dbfe.jpg",
+    "static/media/app.jpg": "/myfirstreact/static/media/app.5b333028aa2786e0628d.jpg",
+    "static/media/img2.png": "/myfirstreact/static/media/img2.4ee5b1e914e2d654bb36.png",
+    "index.html": "/myfirstreact/index.html",
+    "main.b66f765f.css.map": "/myfirstreact/static/css/main.b66f765f.css.map",
+    "main.d0037cf7.js.map": "/myfirstreact/static/js/main.d0037cf7.js.map",
+    "787.ef421f02.chunk.js.map": "/myfirstreact/static/js/787.ef421f02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66f765f.css",
+    "static/js/main.d0037cf7.js"
+  ]
+}
